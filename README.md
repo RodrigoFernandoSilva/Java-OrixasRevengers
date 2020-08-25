@@ -21,6 +21,10 @@ Jplay
 ## Técnicas de programação
 Thread
 
+## Desenvolvido com
+* [Eclipse](https://www.eclipse.org/)
+* [GraphicsGale](https://graphicsgale.com/us/download.html)
+
 ## Imagens
 ![Orixás Revenge-Menu](https://github.com/RodrigoFernandoSilva/Java-OrixasRevengers/blob/master/Prints/Orix%C3%A1s%20Revenge-Dia.PNG)
 ![Orixás Revenge-Dia](https://github.com/RodrigoFernandoSilva/Java-OrixasRevengers/blob/master/Prints/Orix%C3%A1s%20Revenge-Menu.PNG)
